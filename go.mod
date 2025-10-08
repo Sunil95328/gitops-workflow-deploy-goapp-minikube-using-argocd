@@ -1,0 +1,3 @@
+module github.com/RinkiyakeDad/gitops-sample
+
+go 1.21.1
