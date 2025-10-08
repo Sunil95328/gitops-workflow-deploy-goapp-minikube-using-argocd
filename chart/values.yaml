@@ -1,3 +1,6 @@
 image:
   repository: sunilyadav95328/go-app
   tag: 96b67a1e2f178bb8f52991f56fcf17e3e5956aca
+
+service:
+  port: 8081
